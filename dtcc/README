@@ -14,7 +14,7 @@ N/A
 
 ```bash
 $ ./autogen.sh
-$ ./configure --prefixe=/full/install/path/to/dtcc
+$ ./configure --prefix=/full/install/path/to/dtcc
 $ make
 $ make install
 ```
